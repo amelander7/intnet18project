@@ -1,0 +1,79 @@
+Projekt:
+
+Database: MySQL
+Backend: Python
+Frontend: Javascript (React Native)
+REST-api: Python and Flask
+
+REST API för interaktion mellan client och server (för att ladda data)
+WebSockets för interaktion mellan client och client (en chat-funktion kanske?)
+
+
+Database:
+- Players
+- Player info
+- High score
+
+Frontend:
+- Game
+- Game logic
+- MVC
+
+Backend:
+- Pretty much only used for the API and interaction with the database
+
+
+Plan:
+- Skapa en databas;
+	- Tabell för crypto
+	- Tabell för user
+	- Tabell för user_preferences
+
+- Skapa ett python script som med jämna intervaller hämtar data och skriver till database
+
+- Skapa ett python API mellan frontend ocb backend/ databas (GET)
+
+- Skapa appen (fron end)
+
+
+
+
+
+
+
+
+
+
+Links:
+
+Express-generator: https://expressjs.com/en/starter/generator.html
+
+Linter: https://eslint.org/docs/about/
+
+Flask: http://flask.pocoo.org/docs/0.12/patterns/sqlite3/#using-sqlite-3-with-flask
+
+Native React for crypto price checker: https://medium.com/react-native-training/bitcoin-ripple-ethereum-price-checker-with-react-native-redux-e9d076037092
+
+ESLint implementation and Simple Native React Game: https://hackernoon.com/how-i-built-a-super-simple-game-using-react-native-67bdade50373
+
+Flask Mega Tutorial for database integration: https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world
+
+Flask: https://testdriven.io/
+
+Native React layout: https://nativebase.io/
+
+React Native vs React JS: https://medium.com/@alexmngn/from-reactjs-to-react-native-what-are-the-main-differences-between-both-d6e8e88ebf24
+
+Redux (MVC) React Native: https://hackernoon.com/thinking-in-redux-when-all-youve-known-is-mvc-c78a74d35133
+
+Prettier, hur använda: https://medium.com/react-native-training/prettier-for-react-native-776fe33b8d93
+
+ReactJS: https://www.kirupa.com/react/creating_single_page_app_react_using_react_router.htm
+
+React Native login: https://www.youtube.com/watch?v=1xu1eeRCPEk
+
+React Native/ PHP: Hämta från MySQLhttps://reactnativecode.com/react-native-json-parsing-listview-tutorial/
+React Native/ PHP: Registrera användare
+
+
+

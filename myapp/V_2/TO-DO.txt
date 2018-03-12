@@ -1,0 +1,19 @@
+TO-DO:
+<------------------------>
+**** server:
+- Fixa så att resultatet från en query görs till en JSON innan den returneras [DONE]
+- Fixa klart API med "statements" använder fördefinierade requests så if request == statement ... return dito
+
+- API ska stödja:
+	- returnera users/ alt. autentisera användare + password
+	- returnera data om cryptos
+	- returnera users preferenser samt ändra dessa i databasen
+
+<------------------------>
+*** app:
+- Lägg till en skärm för inloggning
+- Lägg till en skärm för inställningar
+- Vid start av app skall man komma till skärmen för inloggning
+- Efter inloggning skall man komma till main sidan (den med priserna)
+- Man skall kunna gå mellan main och inställningar genom tabs på botten av skärmen
+- Man skall kunna trycka på en knapp för att byta användare

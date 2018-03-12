@@ -1,0 +1,3 @@
+** 
+Denna app hämtar data från coinmarketcap och presenterar top10
+**

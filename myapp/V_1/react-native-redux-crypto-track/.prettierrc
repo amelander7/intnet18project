@@ -1,0 +1,8 @@
+"prettier/prettier": ["error", {
+  "singleQuote": true,
+  "tabWidth": 2,         // Specify the number of spaces per indentation-level.
+  "trailingComma": "all",
+  "bracketSpacing": false,
+  "jsxBracketSameLine": true,
+  "parser": "flow"
+}]
